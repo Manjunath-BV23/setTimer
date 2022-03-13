@@ -1,0 +1,19 @@
+{
+  "groceries": [
+    {
+      "title": "heelo",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Manju",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Tomoto",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
